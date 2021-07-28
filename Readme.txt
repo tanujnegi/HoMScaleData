@@ -1,2 +1,1 @@
-This repository contains data, code and information related to development and validation of factor based scales for measuring change in Habits of Minds of Profession Changers. 
-Researchers and academicians are encouraged to use this information for non-commercial purposes. Please cite and use responsibly.
+This repository contains data, code and information related to development and validation of factor based scales for measuring change in Habits of Minds of Profession Changers. Researchers and academicians are encouraged to use this information for non-commercial purposes. Please cite and use responsibly.
